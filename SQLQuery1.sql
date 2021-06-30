@@ -4,7 +4,7 @@
 
 
 -------------------------------------------------------------------------------------
--- Demonstartion of DML commands for Ad hoc data pulls from database for analysis---
+-- Demonstartion of DQL commands for Ad hoc data pulls from database for analysis---
 ------------------------------------------------------------------------------------
 
 --- Using CASE statement to categorize products
