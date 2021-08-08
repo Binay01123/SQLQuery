@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- Binay's Portfolio Project for SQL queries-----------
+-- Portfolio Project for SQL queries-----------
 --------------------------------------------------------
 /*
 Covid 19 Data Exploration 
